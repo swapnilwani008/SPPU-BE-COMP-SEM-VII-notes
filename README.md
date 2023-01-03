@@ -2,5 +2,5 @@
 SPPU (Pune University), Bachelor's of Engineering BE (Computer Engineering), sem 7, Endsem Handwritten notes and Honor course data science sem 7 notes.
 
 
-#Quality in Software
+#Quality in Software (STQA)
 <img src="img.jpg">
